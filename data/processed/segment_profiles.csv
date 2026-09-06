@@ -1,0 +1,5 @@
+segment,customer_count,avg_age,avg_vintage_days,avg_current_balance,median_current_balance,avg_month_credit,avg_month_debit,churn_rate,pct_of_customers
+0,5429,54.87,2142.27,24072.95,12608.74,5918.74,6577.96,0.15,19.1
+1,11813,46.11,2199.63,2950.34,2509.02,48.3,438.79,0.17,41.6
+2,7101,47.06,2143.19,3862.69,2705.49,8843.52,8248.88,0.25,25.0
+3,4039,47.41,1613.63,4085.5,3020.82,480.62,1082.45,0.18,14.2
